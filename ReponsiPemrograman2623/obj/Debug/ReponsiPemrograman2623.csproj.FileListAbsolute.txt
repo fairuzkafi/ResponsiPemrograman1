@@ -1,0 +1,6 @@
+D:\Arsip Kafi\Arsip Kuliah\Pemrograman\RESPONSI\ReponsiPemrograman2623\ReponsiPemrograman2623\bin\Debug\ReponsiPemrograman2623.exe.config
+D:\Arsip Kafi\Arsip Kuliah\Pemrograman\RESPONSI\ReponsiPemrograman2623\ReponsiPemrograman2623\bin\Debug\ReponsiPemrograman2623.exe
+D:\Arsip Kafi\Arsip Kuliah\Pemrograman\RESPONSI\ReponsiPemrograman2623\ReponsiPemrograman2623\bin\Debug\ReponsiPemrograman2623.pdb
+D:\Arsip Kafi\Arsip Kuliah\Pemrograman\RESPONSI\ReponsiPemrograman2623\ReponsiPemrograman2623\obj\Debug\ReponsiPemrograman2623.csprojAssemblyReference.cache
+D:\Arsip Kafi\Arsip Kuliah\Pemrograman\RESPONSI\ReponsiPemrograman2623\ReponsiPemrograman2623\obj\Debug\ReponsiPemrograman2623.exe
+D:\Arsip Kafi\Arsip Kuliah\Pemrograman\RESPONSI\ReponsiPemrograman2623\ReponsiPemrograman2623\obj\Debug\ReponsiPemrograman2623.pdb
